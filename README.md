@@ -1,24 +1,11 @@
-### Hi there, I am a back-end student 👋
-```
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-```
+![capa github](https://github.com/aintluks/aintluks/blob/main/images/capa_github.png)  
 
-Loading... some awesome ideas to go here, check back again in some time
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aintluks&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=aintluks&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>
