@@ -1,4 +1,4 @@
-![capa github](https://github.com/aintluks/aintluks/tree/master/images)  
+<img src="./images/capa_github.png">
 
 
 <center>
