@@ -25,6 +25,7 @@
 <br/>
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aintluks&show_icons=true&locale=en&layout=compact" alt="aintluks" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aintluks&show_icons=true&locale=en" alt="aintluks" /></p>
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aintluks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aintluks&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
