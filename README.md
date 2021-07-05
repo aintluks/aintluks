@@ -1,7 +1,7 @@
 <img src="img/pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Laptop em svg">
 
 <p align="left"> 
-  🌎 Olá, meu nome é Lucas da Costa. Sou <strong>Desenvolvedor FullStack Junior</strong>.
+  🌎 Olá, meu nome é Lucas da Costa. Sou <strong>Desenvolvedor Full Stack Junior</strong>.
 </p>
 
 <p align="left">
