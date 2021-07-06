@@ -1,4 +1,4 @@
-<img src="img/pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Laptop em svg">
+<img src="img/img.svg" min-width="250px" max-width="250px" width="250px" align="right" alt="Laptop em svg">
 
 <p align="left"> 
   🌎 Olá, meu nome é Lucas da Costa. Sou <strong>Desenvolvedor Full Stack Junior</strong>.
