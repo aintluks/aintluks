@@ -1,35 +1,29 @@
-<img src="img/img.svg" min-width="250px" max-width="250px" width="250px" align="right" alt="Laptop em svg">
+## 💜 Olá, meu nome é <strong>Lucas da Costa</strong>
 
-<p align="left"> 
-  🌎 Olá, meu nome é Lucas da Costa. Sou <strong>Desenvolvedor Full Stack Junior</strong>.
-</p>
+> Sou Desenvolvedor Full Stack JavaScript Júnior
 
-<p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Bootstrap, Node.js</strong>.
-</p>
+⚡ Aprendendo: <strong>CSS, React, GraphQL</strong>.
 
-<p align="left">
-  ⚡ Aprendendo: <strong>TypeScript, React, GraphQL e Banco de dados</strong>.
-</p>
+🦄 Hobbies: <strong>Games, animes, mangas</strong>.
 
-<p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Trello, Vercel, GitHub</strong>.
-</p>
+💬 Contato: aintluks@gmail.com || linkedin.com/in/aintluks
 
-<p align="left">
-  💬 Hobbies: <strong>Games, animes, mangas</strong>.
-</p>
+---
 
-<p align="left">
-  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
-</p>
+## 🚀 Minhas Skills
 
-<p align="left">
-  <a href="mailto:aintluks@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=00FFFF&link=mailto:aintluks@gmail.com"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/aintluks" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/aintluks"/>
-  </a>
-</p>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+---
+
+## ⭐ Informações sobre minha conta GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aintluks&show_icons=true&theme=dark)
