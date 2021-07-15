@@ -6,7 +6,7 @@
 
 🦄 Hobbies: <strong>Games, animes, mangas</strong>.
 
-💬 Contato: aintluks@gmail.com || linkedin.com/in/aintluks
+💬 Contato: <a href="mailto:aintluks@gmail.com">Email</a> || <a href="linkedin.com/in/aintluks" target="__blank">LinkedIn</a>
 
 ---
 
