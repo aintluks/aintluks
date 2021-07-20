@@ -2,7 +2,7 @@
 
 > Sou Desenvolvedor Full Stack JavaScript Júnior
 
-⚡ Aprendendo: <strong>CSS, React, GraphQL</strong>.
+⚡ Estudando: <strong>React e TypeScript</strong>.
 
 🦄 Hobbies: <strong>Games, animes, mangas</strong>.
 
