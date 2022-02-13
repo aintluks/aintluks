@@ -1,16 +1,14 @@
-## Olá, meu nome é <strong>Lucas da Costa</strong>
+## Hi there! 👋
 
-> Dev Back-end
+>
 
-⚡ Estudando: <strong>Ruby 💎, Rails 🛤️, Docker 🐋</strong>.
+⚡ Technologies: <strong>Ruby 💎, Rails 🛤️, Docker 🐋</strong>.
 
-🦄 Hobbies: <strong>Jogos 🎮, Animes 🍿, Mangas 📖</strong>.
+🦄 Hobbies: <strong>Games 🎮, Animes 🍿, Mangas 📖</strong>.
 
-💬 Contato: <a href="mailto:aintluks@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/aintluks" target="_blank">LinkedIn</a>
+💬 Contact me: <a href="mailto:aintluks@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/aintluks" target="_blank">LinkedIn</a>
 
----
-
-## 🚀 Minhas Skills
+## 🚀 Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" alt="Ruby on Rails"/></code>
@@ -23,8 +21,12 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
-
-[![aintluks](https://github-readme-stats.vercel.app/api?username=aintluks&show_icons=true&theme=dark)](https://github.com/aintluks/)
-
-[![aintluks](https://github-readme-stats.vercel.app/api/top-langs/?username=aintluks&hide=html&layout=compact&theme=dark)](https://github.com/aintluks/)
+<details>	
+  <summary><b>⚡ GitHubs Stats</b></summary>
+  <br />
+  <div justify="space-between">
+    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aintluks&hide=html&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aintluks" /> 
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=aintluks&theme=tokyonight&show_icons=true" alt="aintluks" />
+  </div>
+</details>
