@@ -22,7 +22,7 @@
 ---
 
 <details>	
-  <summary><b>⚡ GitHubs Stats</b></summary>
+  <summary><b>⚡ GitHub Stats</b></summary>
   <br />
   <div justify="space-between">
     <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aintluks&hide=html&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aintluks" /> 
